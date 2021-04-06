@@ -22,22 +22,3 @@
 <img src="https://i.postimg.cc/4yNRkWxY/3-28-2021-11-59-01.jpg">
 12. Melihat ukuran gambar yang sudah diatur
 <img src="https://i.postimg.cc/hj0R5kcF/3-28-2021-11-59-51.jpg">
-
-
-<br/>
-Jawab Pertanyaan Berikut
-<br/>
-1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
-   <br/>Jawab : saat dilakukan perubahan tag yang tidak sesuai, error notifikasi tidak terlihat hanya saja tag tidak berfungsi. misal tag untuk heading, akan terlihat seperti   kalimat paragraf biasa.
-
-2. Apa perbedaan dari tag <p> dengan tag <br/>, berikan penjelasannya!
-   <br/>Jawab : Perbedaan antara <p> dan <br/> adalah <p> tag untuk membuat paragraf, sedangkan <br/> adalah tag tunggal yang tidak memerlukan tag pembuka 
-    
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
-   <br/>Jawab : alt untuk deskripsi tentang gambar, sedangkan title untuk judul gambar
-
-4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-   <br/>Jawab : tidak perlu, karena penggantian atribut width saja sudah cukup agar gambar terlihat proporsional
-
-5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
-   <br/>Jawab : _blank maka halaman web membuka link dengan tab baru, _self maka membuka halaman web di tab tersebut, _top maka Membuka halaman web dan membatalkan semua frame, _parent maka Membuka halaman website pada parent frame.
